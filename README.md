@@ -1,4 +1,1 @@
-<body>
-  <h1>test</h1>
-  <p>test article</p>
-</body>
+<script>window.location.replace(https://google.com)</script>
